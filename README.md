@@ -1,7 +1,7 @@
 # Customer Call Report
 
 ## This repository contains an Excel workbook designed to analyze and visualize customer call center performance. It includes raw data, pivot tables, and dashboards to track key performance indicators (KPIs).
-File Contents
+## File Contents
 
 # Assets:
        1.Data: Raw call center logs for analysis.
@@ -15,21 +15,13 @@ File Contents
        2.Pre-built pivot tables for quick summaries.
        3.Visual dashboards for insights into KPIs.
 
-Usage
-Open the workbook in Excel.
+# Usage
+       Open the workbook in Excel.
+       Use the "Data" sheet for raw call analysis.
+       Review the "dashboard" for visual summaries.
+       Explore "pivot" for aggregated insights.
 
-Use the "Data" sheet for raw call analysis.
-
-Review the "dashboard" for visual summaries.
-
-Explore "pivot" for aggregated insights.
-
-Recommendations
-Rename unnamed columns for clarity.
-
-Ensure consistent formatting across sheets.
-
-Customize dashboards for specific use cases.
-
-Contributing
-Contributions to improve the workbook structure or add new features are welcome. See CONTRIBUTING.md for guidelines.
+# Recommendations
+       Rename unnamed columns for clarity.
+       Ensure consistent formatting across sheets.
+       Customize dashboards for specific use cases.
