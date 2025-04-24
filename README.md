@@ -51,8 +51,8 @@ This repository contains an Excel workbook designed to analyze and visualize cus
           Add charts from PivotTables (Insert > Chart).
           Use slicers for interactivity (Insert > Slicer).
           Connect the slicers to all charts.
-
 Arrange the charts neatly and give it a clean title like "Customer Call Center Dashboard".
+![project1image](https://github.com/user-attachments/assets/eb8c792c-0de1-4c04-9dda-d8b864106815)
 
 ## Usage
        1.Open the workbook in Excel.
