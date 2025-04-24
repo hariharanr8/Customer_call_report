@@ -3,7 +3,7 @@
 ## Project Objective 
 This repository contains an Excel workbook designed to analyze and visualize customer call center performance. It includes raw data, pivot tables, and dashboards to track key performance indicators (KPIs).
 
-# Contents
+## Contents
 - <a  href="https://github.com/hariharanr8/Customer_call_report/blob/main/README.md#Data-Column">Data Column</a>
 - <a  href="https://github.com/hariharanr8/Customer_call_report/blob/main/README.md#Process">Process</a>
 - <a  href="https://github.com/hariharanr8/Customer_call_report/blob/main/README.md#Usage">Usage</a>
