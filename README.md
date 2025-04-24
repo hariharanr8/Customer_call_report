@@ -2,7 +2,7 @@
 
 ## This repository contains an Excel workbook designed to analyze and visualize customer call center performance. It includes raw data, pivot tables, and dashboards to track key performance indicators (KPIs).
 ## File Contents
-       - <a  href="Assets">Assets</a>
+- <a  href="Assets">Assets</a>
 # Assets:
        1.Data: Raw call center logs for analysis.
        2.dashboard: Visualizations of key metrics and trends.
