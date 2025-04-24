@@ -4,29 +4,66 @@
 This repository contains an Excel workbook designed to analyze and visualize customer call center performance. It includes raw data, pivot tables, and dashboards to track key performance indicators (KPIs).
 
 # File Contents
-- <a  href="https://github.com/hariharanr8/Customer_call_report/blob/main/README.md#assets">Assets</a>
-- <a  href="https://github.com/hariharanr8/Customer_call_report/blob/main/README.md#Features">Features</a>
+- <a  href="https://github.com/hariharanr8/Customer_call_report/blob/main/README.md#Data Column">Assets</a>
+- <a  href="https://github.com/hariharanr8/Customer_call_report/blob/main/README.md#Process">Process</a>
 - <a  href="https://github.com/hariharanr8/Customer_call_report/blob/main/README.md#Usage">Usage</a>
+- <a  href="https://github.com/hariharanr8/Customer_call_report/blob/main/README.md#Features">Features</a>
 - <a  href="https://github.com/hariharanr8/Customer_call_report/blob/main/README.md#Recommendations">Recommendations</a>
 ## Dataset Used
 - <a href="https://github.com/hariharanr8/Customer_call_report/blob/main/project1(customercallreport).xlsx">Dataset</a>
-## Assets:
+- <a href="https://github.com/hariharanr8/Customer_call_report/blob/main/project1(customercallreport).xlsx">Dashboard</a>
+## Data Column(First, review the data in the Excel file. Usually, you'll find columns to make an Ideas)
        1.Data: Raw call center logs for analysis.
        2.dashboard: Visualizations of key metrics and trends.
-       3.pivot: Aggregated data in pivot table format.
-       4.Sheet2: Filtered data for specific locations or criteria.
-       5.Placeholder or metadata information.
-       
-## Features
-       1.Comprehensive call log dataset.
-       2.Pre-built pivot tables for quick summaries.
-       3.Visual dashboards for insights into KPIs.
+       3.pivot: Aggregated data in pivot table format(Filter from Data)
+       5.Logo:Placeholder or Logo used in Dashboard
+## Process
+### Step 1- Clean the Data
+       Before dashboarding, clean your data:
+              Remove empty rows/columns.
+              Ensure dates are in proper date format.
+              Standardize column headers (e.g., no typos, consistent capitalization).
+              Replace missing values or blanks if necessary.
+### Step 2- Define Dashboard Metrics
+       Common dashboard KPIs for a customer call report:
+              Total Calls
+              Calls by Type (Bar/Donut Chart)
+              Average Call Duration
+              Calls Per Day (Line/Column Chart)
+              Calls per Agent (Bar Chart)
+              Resolution Rate (e.g., % Resolved)
+### Step 3- Create Pivot Tables
+       Use Excel's Insert > PivotTable:
+       1.Total Calls per Day:
+          Rows: Date
+          Values: Count of Call ID or Customer Name
+       2.Calls by Agent:
+          Rows: Agent Name
+          Values: Count of Call ID
+       3.Call Type Distribution:
+          Rows: Call Type
+          Values: Count of Call ID
+       4.Average Call Duration by Agent or Type:
+          Rows: Agent Name or Call Type
+          Values: Average of Call Duration
+### Step 4- Create the Dashboard
+       On a new Excel sheet:
+          Add charts from PivotTables (Insert > Chart).
+          Use slicers for interactivity (Insert > Slicer).
+          Connect the slicers to all charts.
+
+Arrange the charts neatly and give it a clean title like "Customer Call Center Dashboard".
 
 ## Usage
        1.Open the workbook in Excel.
        2.Use the "Data" sheet for raw call analysis.
        3.Review the "dashboard" for visual summaries.
        4.Explore "pivot" for aggregated insights.
+
+## Features
+       1.Comprehensive call log dataset.
+       2.Pre-built pivot tables for quick summaries.
+       3.Visual dashboards for insights into KPIs.
 
 ## Recommendations
        1.Rename unnamed columns for clarity.
