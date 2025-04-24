@@ -15,7 +15,7 @@ This repository contains an Excel workbook designed to analyze and visualize cus
 - <a href="https://github.com/hariharanr8/Customer_call_report/blob/main/project1(customercallreport).xlsx">Dashboard</a>
 ## Data Column
 (First, review the data in the Excel file. Usually, you'll find columns to make an Ideas)
-       1.Data: Raw call center logs for analysis.
+       1.Data: Raw call center logs for analysis.</br>
        2.dashboard: Visualizations of key metrics and trends.
        3.pivot: Aggregated data in pivot table format(Filter from Data)
        5.Logo:Placeholder or Logo used in Dashboard
