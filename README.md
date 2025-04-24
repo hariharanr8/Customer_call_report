@@ -57,10 +57,10 @@ Arrange the charts neatly and give it a clean title like "Customer Call Center D
 ![project1image](https://github.com/user-attachments/assets/eb8c792c-0de1-4c04-9dda-d8b864106815)
 
 ### Step 7: Documentation & Reporting
-Summarize key findings and insights in:
-    -Dashboard visuals
-    -Readme or PDF report
-    -Executive summary for stakeholders
+Summarize key findings and insights in:</br>
+    -Dashboard visuals</br>
+    -Readme or PDF report</br>
+    -Executive summary for stakeholders</br>
 
 ## Usage
        1.Open the workbook in Excel.
